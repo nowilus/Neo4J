@@ -1,0 +1,3 @@
+MATCH (d:town), (s:peak), paths = (d:town)-[*]->(s:peak)
+WHERE d.name ='Darjeeling' AND s.name = "Sandakphu"
+Return paths

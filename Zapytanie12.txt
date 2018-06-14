@@ -1,0 +1,3 @@
+MATCH(d:town), (s), paths = (d)-[r:twowheeler*]->(s)
+WHERE (s:town OR s:peak OR s:village) and  d.name = 'Darjeeling' AND all(x IN r WHERE x.summer = 'true')
+RETURN paths

@@ -1,0 +1,5 @@
+MATCH p=shortestPath(
+  (d:town {name:"Darjeeling"})-[r*]-(s:peak {name:"Sandakphu"})
+)
+WHERE all(x IN r WHERE x.winter = "true")
+RETURN p

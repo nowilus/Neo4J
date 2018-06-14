@@ -1,0 +1,530 @@
+[
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "ABQ"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "AUS"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "BDL"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "BOS"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "BWI"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "BZN"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "CMH"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "CRP"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "DEN"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "DFW"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "EWR"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "FAR"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "FAT"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "FLL"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "GRR"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "IAD"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "IAH"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "LAS"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "LGA"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "MCO"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "MEM"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "MFE"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "MIA"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "MSN"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "MSY"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "OKC"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "OMA"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "ORD"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "ORF"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "PDX"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "PHX"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "PIT"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "PSP"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "RNO"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "ROC"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "RSW"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "SEA"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "SFO"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "SGF"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "SJC"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "SMF"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "TPA"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "TUL"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  },
+  {
+    "keys": [
+      "b.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "TUS"
+    ],
+    "_fieldLookup": {
+      "b.name": 0
+    }
+  }
+]

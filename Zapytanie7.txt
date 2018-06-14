@@ -1,0 +1,25 @@
+CREATE (CaptainAmerica:Movie {title:'Captain America: The First Avenger', released:2011, tagline:'FIrst Avenger'})
+CREATE (JoeJohnston:Person {name:'Joe Johnston', born:1950})
+CREATE (ChristopherMarkus:Person {name:'Christopher Markus', born:1967})
+CREATE (StephenMcFeely :Person {name:'Stephen McFeely', born:1973})
+CREATE (Hugo:Person {name:'Hugo Weaving', born:1960})
+CREATE (ChrisEvans:Person {name:'Chris Evans', born:1981})
+CREATE (SebastianStan :Person {name:'Sebastian Stan', born:1982})
+CREATE (TommyLeeJones:Person {name:'Tommy Lee Jones', born:1946})
+CREATE (HayleyAtwell:Person {name:'Hayley Atwell', born:1982})
+CREATE
+  (Hugo)-[:ACTED_IN {roles:['Red Skull']}]->(CaptainAmerica),
+  (JoeJohnston)-[:DIRECTED]->(CaptainAmerica),
+  (ChristopherMarkus)-[:WROTE]->(CaptainAmerica),
+  (ChrisEvans)-[:ACTED_IN {roles:['Red Skull']}]->(CaptainAmerica),
+  (HayleyAtwell)-[:ACTED_IN {roles:['Peggy Carter']}]->(CaptainAmerica),
+  (SebastianStan)-[:ACTED_IN {roles:['Bucky']}]->(CaptainAmerica),
+  (TommyLeeJones)-[:ACTED_IN {roles:['Colonel Chester Phillips']}]->(CaptainAmerica),  
+  (StephenMcFeely)-[:WROTE]->(CaptainAmerica)
+
+
+MATCH (captainAmerica {title: "Captain America: The First Avenger"})<-[:DIRECTED]-(directors),
+(captainAmerica {title: "Captain America: The First Avenger"})<-[:WROTE]-(writters),
+(captainAmerica {title: "Captain America: The First Avenger"})<-[:ACTED_IN]-(actors)
+RETURN directors,actors,writters order by directors,actors,writters asc
+

@@ -1,0 +1,903 @@
+	
+[
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "ORD",
+      {
+        "low": 48,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "DTW",
+      {
+        "low": 25,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "IAH",
+      {
+        "low": 23,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "LAX",
+      {
+        "low": 22,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "DEN",
+      {
+        "low": 18,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "SFO",
+      {
+        "low": 14,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "AZO",
+      {
+        "low": 13,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "IAD",
+      {
+        "low": 12,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "BNA",
+      {
+        "low": 12,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "MSP",
+      {
+        "low": 9,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "MOT",
+      {
+        "low": 8,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "EWR",
+      {
+        "low": 7,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "HNL",
+      {
+        "low": 5,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "FSD",
+      {
+        "low": 5,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "SLC",
+      {
+        "low": 5,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "PDX",
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "ABQ",
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "MCO",
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "SAN",
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "CVG",
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "BOS",
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "DLH",
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "DFW",
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "BHM",
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "FAT",
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "SBN",
+      {
+        "low": 3,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "SEA",
+      {
+        "low": 3,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "PHX",
+      {
+        "low": 3,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "LAS",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "ATL",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "CMH",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "SJC",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "SNA",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "LGA",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "TUS",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "DCA",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "ROC",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "MOB",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "IND",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "SAT",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "MCI",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "KOA",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "RIC",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "FLL",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "PBI",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "SMF",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "CLT",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "MSN",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "BIL",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  },
+  {
+    "keys": [
+      "m.name",
+      "flightStarts"
+    ],
+    "length": 2,
+    "_fields": [
+      "MIA",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m.name": 0,
+      "flightStarts": 1
+    }
+  }
+]

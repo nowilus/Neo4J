@@ -1,0 +1,2 @@
+MATCH (f:Flight)-[r:ORIGIN]->(m:Airport)
+RETURN m.name,count(*) as flightStarts order by flightStarts DESC

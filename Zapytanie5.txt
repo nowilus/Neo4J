@@ -1,0 +1,3 @@
+MATCH (person:Person)-[:WROTE]->(m)<-[:DIRECTED]-(directors)
+WHERE person = directors
+RETURN person

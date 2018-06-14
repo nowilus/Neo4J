@@ -1,0 +1,4 @@
+MATCH p=(start:town {name: 'Darjeeling'})-[rels*]->(end:peak {name: 'Sandakphu'})
+WITH p, REDUCE(weight=0, rel in rels | weight + rel.distance) as length
+RETURN p, length 
+ORDER BY length ASC
