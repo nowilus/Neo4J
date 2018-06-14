@@ -1,0 +1,87 @@
+[
+  {
+    "keys": [
+      "l",
+      "price"
+    ],
+    "length": 2,
+    "_fields": [
+      [
+        {
+          "identity": {
+            "low": 504803,
+            "high": 0
+          },
+          "start": {
+            "low": 48,
+            "high": 0
+          },
+          "end": {
+            "low": 47,
+            "high": 0
+          },
+          "type": "LATA",
+          "properties": {
+            "business": {
+              "low": 121,
+              "high": 0
+            },
+            "firstClass": 145.2,
+            "economy": 90.75
+          }
+        },
+        {
+          "identity": {
+            "low": 504818,
+            "high": 0
+          },
+          "start": {
+            "low": 47,
+            "high": 0
+          },
+          "end": {
+            "low": 48,
+            "high": 0
+          },
+          "type": "LATA",
+          "properties": {
+            "business": {
+              "low": 120,
+              "high": 0
+            },
+            "firstClass": 144,
+            "economy": 90
+          }
+        },
+        {
+          "identity": {
+            "low": 504800,
+            "high": 0
+          },
+          "start": {
+            "low": 48,
+            "high": 0
+          },
+          "end": {
+            "low": 47,
+            "high": 0
+          },
+          "type": "LATA",
+          "properties": {
+            "business": {
+              "low": 121,
+              "high": 0
+            },
+            "firstClass": 145.2,
+            "economy": 90.75
+          }
+        }
+      ],
+      271.5
+    ],
+    "_fieldLookup": {
+      "l": 0,
+      "price": 1
+    }
+  }
+]

@@ -1,0 +1,5 @@
+match (a:Airport)-[l:LATA*1..3]->(b:Airport) 
+WHERE a.name = 'LAX' AND b.name = 'DAY'
+WITH a,b,l, REDUCE(total=0, i in l | total + i.business) as price
+RETURN DISTINCT  l, price
+ORDER BY price LIMIT 1

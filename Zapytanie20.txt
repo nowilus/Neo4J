@@ -1,0 +1,4 @@
+match (a:Airport)-[l:LATA*3..3]->(b:Airport) 
+WITH a,b,l, REDUCE(total=0, i in l | total + i.economy) as price
+RETURN DISTINCT  l, price
+ORDER BY price LIMIT 1
